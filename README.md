@@ -1,3 +1,5 @@
 # odin-recipes
 
-"Hello Odin!"
+"Hi Odin!"
+
+creating a simple recipes web site from a scratch project i used before for learing.
